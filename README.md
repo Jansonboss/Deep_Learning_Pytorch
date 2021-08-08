@@ -1,2 +1,3 @@
-# Intro_Deep_Learning_Pytorch
-MSDS Course Notes for DL in Pytorch
+# Deep Learning in Pytorch
+
+Notes and tutorial for DL in Pytorch

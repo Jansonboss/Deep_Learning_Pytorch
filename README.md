@@ -13,13 +13,16 @@ Notes and tutorial for DL in Pytorch. This repository provides tutorial code for
 #### **Notebook**  [1_DataLoader_DataSet_ModelTraining.ipynb](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb)
 
 
+https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch.squeeze()
+
+
 * [Check GPU Availablilty](#Check-GPU-Available)
 * [Tensor and Numpy Array](#Torch-Tensor-and-Numpy-array)
 * [Torch DataSet in Pytorch](#Torch-Dataset)
 * [Create DataLoader in Pytorch](#Create-DataLoader)
 * [Training Model in Pytorch](#Modeling-Training)
 * [` Super().__init__()`](#Super-and-init-in-Python)
-* [squeeze and unsqueeze](#Torch.squeeze())
+* [squeeze and unsqueeze](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch.squeeze())
 
 
 <br/>

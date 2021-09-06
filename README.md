@@ -10,7 +10,7 @@ Notes and tutorial for DL in Pytorch. This repository provides tutorial code for
 <br/>
 
 ## **Table of Contents**
-#### **Notebook**  [1_DataLoader_DataSet_ModelTraining.ipynb](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch-Dataset)
+#### **Notebook**  [1_DataLoader_DataSet_ModelTraining.ipynb](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb)
 
 
 * [Check GPU Availablilty](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Check-GPU-Available)

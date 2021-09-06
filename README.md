@@ -7,6 +7,8 @@
 
 Notes and tutorial for DL in Pytorch. This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). 
 
+We will use nbviewer since it render the jupyter notebook table of content pretty niccely :)
+
 <br/>
 
 ## **Table of Contents**
@@ -15,7 +17,7 @@ Notes and tutorial for DL in Pytorch. This repository provides tutorial code for
 
 * [Check GPU Availablilty](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Check-GPU-Available)
 * [Tensor and Numpy Array](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch-Tensor-and-Numpy-array)
-* [Torch DataSet in Pytorch](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynbhttps://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch-Dataset)
+* [Torch DataSet in Pytorch](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch-Dataset)
 * [Create DataLoader in Pytorch](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Create-DataLoader)
 * [Training Model in Pytorch](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Modeling-Training)
 * [` Super().__init__()`](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Super-and-init-in-Python)

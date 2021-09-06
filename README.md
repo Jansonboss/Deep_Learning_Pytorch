@@ -10,16 +10,16 @@ Notes and tutorial for DL in Pytorch. This repository provides tutorial code for
 <br/>
 
 ## **Table of Contents**
-#### **Notebook**  [1_DataLoader_DataSet_ModelTraining.ipynb](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb)
+#### **Notebook**  [1_DataLoader_DataSet_ModelTraining.ipynb](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch-Dataset)
 
 
-* [Check GPU Availablilty](#Check-GPU-Available)
-* [Tensor and Numpy Array](#Torch-Tensor-and-Numpy-array)
-* [Torch DataSet in Pytorch](#Torch-Dataset)
-* [Create DataLoader in Pytorch](#Create-DataLoader)
-* [Training Model in Pytorch](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Modeling-Training)
-* [` Super().__init__()`](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Super-and-init-in-Python)
-* [squeeze and unsqueeze](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch.squeeze())
+* [Check GPU Availablilty](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Check-GPU-Available)
+* [Tensor and Numpy Array](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch-Tensor-and-Numpy-array)
+* [Torch DataSet in Pytorch](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynbhttps://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch-Dataset)
+* [Create DataLoader in Pytorch](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Create-DataLoader)
+* [Training Model in Pytorch](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Modeling-Training)
+* [` Super().__init__()`](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Super-and-init-in-Python)
+* [squeeze and unsqueeze](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch.squeeze())
 
 
 <br/>

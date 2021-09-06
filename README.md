@@ -22,8 +22,8 @@ We will use nbviewer since it render the jupyter notebook table of content prett
 * [Training Model in Pytorch](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Modeling-Training)
 * Other Questions: 
 	* [` super().__init__()`](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Super-and-init-in-Python)
-	* [squeeze and unsqueeze](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch.squeeze())
 	* [`__init__` and `__call__`](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Difference-init-and-call)
+	* [squeeze and unsqueeze](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch.squeeze())
 
 <br/>
 

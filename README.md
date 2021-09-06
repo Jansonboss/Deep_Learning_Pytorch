@@ -20,8 +20,8 @@ https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataS
 * [Tensor and Numpy Array](#Torch-Tensor-and-Numpy-array)
 * [Torch DataSet in Pytorch](#Torch-Dataset)
 * [Create DataLoader in Pytorch](#Create-DataLoader)
-* [Training Model in Pytorch](#Modeling-Training)
-* [` Super().__init__()`](#Super-and-init-in-Python)
+* [Training Model in Pytorch](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Modeling-Training)
+* [` Super().__init__()`](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Super-and-init-in-Python)
 * [squeeze and unsqueeze](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch.squeeze())
 
 

@@ -24,28 +24,37 @@ We will use nbviewer since it render the jupyter notebook table of content prett
 	* [` super().__init__()`](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Super-and-init-in-Python)
 	* [`__init__` and `__call__`](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Difference-init-and-call)
 	* [squeeze and unsqueeze](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#Torch.squeeze())
-	* [model.train and model.eval](#)
+	* [model.train and model.eval](https://nbviewer.jupyter.org/github/Jansonboss/Deep_Learning_Pytorch/blob/main/1_DataLoader_DataSet_ModelTraining.ipynb#model.train-and-model.eval)
 
 <br/>
 
-#### 2. Intermediate
-* [Convolutional Neural Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/convolutional_neural_network/main.py#L35-L56)
-* [Deep Residual Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/deep_residual_network/main.py#L76-L113)
-* [Recurrent Neural Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/recurrent_neural_network/main.py#L39-L58)
-* [Bidirectional Recurrent Neural Network](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/bidirectional_recurrent_neural_network/main.py#L39-L58)
-* [Language Model (RNN-LM)](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/02-intermediate/language_model/main.py#L30-L50)
+#### **Notebook**  [2_LinearTransformation_Embedding_Axis.ipynb](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb)
 
-#### 3. Advanced
-* [Generative Adversarial Networks](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/generative_adversarial_network/main.py#L41-L57)
-* [Variational Auto-Encoder](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/03-advanced/variational_autoencoder/main.py#L38-L65)
-* [Neural Style Transfer](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/03-advanced/neural_style_transfer)
-* [Image Captioning (CNN-RNN)](https://github.com/yunjey/pytorch-tutorial/tree/mastezr/tutorials/03-advanced/image_captioning)
 
-#### 4. Utilities
-* [TensorBoard in PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)
+* [Torch Linear Transform](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Check-GPU-Available)
+* [Torch Embedding Block](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Torch-Tensor-and-Numpy-array)
+	* [Difference between nn.Linear and Embedding](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Torch-Tensor-and-Numpy-array)
 
+* Other Questions: 
+	* [Axis and Sum Dimension](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Super-and-init-in-Python)
+	* [`__init__` and `__call__`](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Difference-init-and-call)
 
 <br/>
+
+
+#### **Notebook**  [2_LinearTransformation_Embedding_Axis.ipynb](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb)
+
+
+* [Torch Linear Transform](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Check-GPU-Available)
+* [Torch Embedding Block](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Torch-Tensor-and-Numpy-array)
+	* [Difference between nn.Linear and Embedding](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Torch-Tensor-and-Numpy-array)
+
+* Other Questions: 
+	* [Axis and Sum Dimension](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Super-and-init-in-Python)
+	* [`__init__` and `__call__`](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Difference-init-and-call)
+
+
+
 
 ## Getting Started
 ```bash

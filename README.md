@@ -1,10 +1,6 @@
 # **Deep Learning Practice in Pytorch**
 
 
-
---------------------------------------------------------------------------------
-
-
 Notes and tutorial for DL in Pytorch. This repository provides tutorial code for deep learning researchers to learn [PyTorch](https://github.com/pytorch/pytorch). 
 
 We will use nbviewer since it render the jupyter notebook table of content pretty niccely :)

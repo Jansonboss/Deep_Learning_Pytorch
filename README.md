@@ -43,7 +43,6 @@ We will use nbviewer since it render the jupyter notebook table of content prett
 
 * Other Questions: 
 	* [Axis and Sum Dimension](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Super-and-init-in-Python)
-	* [`__init__` and `__call__`](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Difference-init-and-call)
 
 <br/>
 

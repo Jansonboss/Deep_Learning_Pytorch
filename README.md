@@ -1,4 +1,4 @@
-# Deep Learning Practice in Pytorch
+# **Deep Learning Practice in Pytorch**
 
 
 
@@ -32,8 +32,14 @@ We will use nbviewer since it render the jupyter notebook table of content prett
 
 
 * [Torch Linear Transform](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Check-GPU-Available)
+	* [Underneath the Linear Layer]()
+	* [Variable and Tensor with data attribute in torch]()
+
 * [Torch Embedding Block](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Torch-Tensor-and-Numpy-array)
 	* [Difference between nn.Linear and Embedding](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Torch-Tensor-and-Numpy-array)
+	* [nn.Linear and Embedding and Paramter](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Embedding-Linear-and-Parameters)
+	* [nn.Embedding nn.Linear and nn.Parameters]()
+
 
 * Other Questions: 
 	* [Axis and Sum Dimension](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Super-and-init-in-Python)
@@ -51,8 +57,6 @@ We will use nbviewer since it render the jupyter notebook table of content prett
 
 * Other Questions: 
 	* [Axis and Sum Dimension](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Super-and-init-in-Python)
-	* [`__init__` and `__call__`](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Difference-init-and-call)
-
 
 
 

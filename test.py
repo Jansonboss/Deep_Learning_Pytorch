@@ -42,4 +42,5 @@ class MLP(nn.Module):
 		return x
 	
 
-		
+	def add_feature_readme_branch(cls):
+		return "this the modified in the feature branch "

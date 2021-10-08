@@ -5,6 +5,8 @@ Notes and tutorial for DL in Pytorch. This repository provides tutorial code for
 
 We will use nbviewer since it render the jupyter notebook table of content pretty niccely :)
 
+Notebooks will contain study of components that are useful for training deep learning model. Notebooks in the Lab folder will be the time we used what we learned and practice on real world data.
+
 <br/>
 
 ## **Table of Contents**

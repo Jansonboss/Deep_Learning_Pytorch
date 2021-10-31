@@ -45,17 +45,16 @@ Notebooks will contain study of components that are useful for training deep lea
 <br/>
 
 
-#### **Notebook**  [2_LinearTransformation_Embedding_Axis.ipynb](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb)
+#### **Notebook**  [3_LR_Dropout_Normalize.ipynb](https://nbviewer.org/github/Jansonboss/Intro_Deep_Learning_Pytorch/blob/main/3_LR_Dropout_Normalize.ipynb)
 
 
-* [Torch Linear Transform](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Check-GPU-Available)
-* [Torch Embedding Block](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Torch-Tensor-and-Numpy-array)
-	* [Difference between nn.Linear and Embedding](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Torch-Tensor-and-Numpy-array)
+* [Learning Rate Schedule](https://nbviewer.org/github/Jansonboss/Intro_Deep_Learning_Pytorch/blob/main/3_LR_Dropout_Normalize.ipynb#Learning-Rate-Schedule)
+* [Dropout Component](https://nbviewer.org/github/Jansonboss/Intro_Deep_Learning_Pytorch/blob/main/3_LR_Dropout_Normalize.ipynb#Dropout)
+* [Methods of Normalization](https://nbviewer.org/github/Jansonboss/Intro_Deep_Learning_Pytorch/blob/main/3_LR_Dropout_Normalize.ipynb#Normalization)
 
-* Other Questions: 
-	* [Axis and Sum Dimension](https://github.com/Jansonboss/Deep_Learning_Pytorch/blob/main/2_LinearTransformation_Embedding_Axis.ipynb#Super-and-init-in-Python)
+	* [Batch Normalization](https://nbviewer.org/github/Jansonboss/Intro_Deep_Learning_Pytorch/blob/main/3_LR_Dropout_Normalize.ipynb#Normalization)
 
-
+	* [Layer Normalization](https://nbviewer.org/github/Jansonboss/Intro_Deep_Learning_Pytorch/blob/main/3_LR_Dropout_Normalize.ipynb#Normalization)
 
 ## Getting Started
 ```bash
